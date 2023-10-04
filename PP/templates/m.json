@@ -1,0 +1,58 @@
+{
+    "мой дракончик <3": {
+        "name": "drakonchik_fin.png",
+        "x": -676,
+        "y": -2043,
+        "width": 117,
+        "height": 167,
+        "sectors": false
+    },
+    "арт млпп 1": {
+        "name": "NM.png",
+        "x": -1028,
+        "y": -2048,
+        "width": 300,
+        "height": 330,
+        "sectors": false
+    },
+    "арт млпп 2": {
+        "name": "catm.png",
+        "x": 6152,
+        "y": 6512,
+        "width": 1920,
+        "height": 1680,
+        "sectors": false
+    },
+    "кот 1": {
+        "name": "HEYTINV.png",
+        "x": -8192,
+        "y": -8192,
+        "width": 255,
+        "height": 180,
+        "sectors": false
+    },
+    "Саратов": {
+        "name": "Saratov.png",
+        "x": 6559,
+        "y": 5281,
+        "width": 786,
+        "height": 476,
+        "sectors": false
+    },
+    "Ставрополь": {
+        "name": "Stavropole.png",
+        "x": 6382,
+        "y": 5746,
+        "width": 276,
+        "height": 134,
+        "sectors": false
+    },
+    "Дерево": {
+        "name": "Starlight_tree.png",
+        "x": 58,
+        "y": -1860,
+        "width": 144,
+        "height": 224,
+        "sectors": false
+    }
+}

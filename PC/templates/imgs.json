@@ -1,0 +1,19 @@
+{
+   "СССР": { 
+    "name": "СССР.png", 
+    "x": -10370, 
+    "y": 9485, 
+    "width": 161, 
+    "height": 127,
+    "sectors": false
+  },
+  "Starlight": { 
+    "name": "Starlight.png", 
+    "x": -9350, 
+    "y": 9873, 
+    "width": 161, 
+    "height": 127,
+    "sectors": false
+  }
+
+}
